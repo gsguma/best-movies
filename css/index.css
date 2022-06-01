@@ -1,0 +1,79 @@
+body {
+  font-family: tahoma;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.gallery-title {
+  background-color: #36a2ef;
+  border: 1px solid #36a2ef;
+  border-radius: 10px 10px 10px 10px;
+  color: #fff;
+  float: left;
+  font-weight: bold;
+  height: 15px;
+  margin: 5px;
+  overflow: hidden;
+  padding: 3px;
+  text-align: center;
+  width: 98.2%;
+}
+
+.item {
+  background-color: #d7ebff;
+  border: 1px solid #36a2ef;
+  border-radius: 10px;
+  float: left;
+  height: 395px;
+  margin: 5px;
+  padding: 15px 10px;
+  text-align: center;
+  width: 280px;
+  overflow: hidden;
+}
+
+.title {
+  background-color: #36a2ef;
+  border: 1px solid #36a2ef;
+  color: #fff;
+  font-weight: bold;
+  font-size: 11px;
+  margin-left: -11px;
+  margin-top: -16px;
+  margin-right: -11px;
+  margin-bottom: 5px;
+  padding: 1px 1px;
+}
+
+.title a {
+  background-color: #36a2ef;
+  border: 1px solid #36a2ef;
+  color: #fff;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.title a:hover {
+  color: #444;
+  text-decoration: underline;
+}
+
+img {
+  max-height: 400px;
+  max-width: 270px;
+}
+
+.footer {
+  background-color: #31a9ff;
+  border: 1px solid #1877ec;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 33%;
+  margin-top: -27px;
+  margin-bottom: 5px;
+  padding: 1px 5px;
+  width: 70px;
+}
